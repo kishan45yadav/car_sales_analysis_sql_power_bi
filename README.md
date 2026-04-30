@@ -6,6 +6,8 @@
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen?style=flat)
 ![Project](https://img.shields.io/badge/Type-Internship%20Portfolio-blueviolet?style=flat)
 
+![image alt](https://github.com/kishan45yadav/car_sales_analysis_sql_power_bi/blob/main/Screenshot%20(33).png?raw=true)
+
 > An end-to-end **Data Analyst project** performing car inventory analysis, brand performance comparison, transmission & engine-type insights, and revenue forecasting — built using **MySQL** for querying and **Power BI** for interactive dashboard visualization.
 
 ---
